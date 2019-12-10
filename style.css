@@ -1,0 +1,40 @@
+body {
+    background: url("//Assets/Images/stripes-light.png");
+    background-repeat: repeat;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
+
+form{
+    margin: 40px;
+}
+
+button {
+    margin: 10px 40px;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#page-content {
+  flex: 1 0 auto;
+}
+
+body {
+    background: url("//Assets/Images/stripes-light.png");
+    background-repeat: repeat;
+}
+
+.navbar-custom .nav-item:hover .nav-link {
+    color: papayawhip;
+}
+#sticky-footer {
+    margin-top: 100vh;
+}
